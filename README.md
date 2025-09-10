@@ -11,3 +11,5 @@ Gender Bias Decoder is a single page web app that scans inputted text for any un
 [Flask](https://flask.palletsprojects.com/en/stable/) - a lightweight WSGI web application framework.
 
 [Bootstrap](https://getbootstrap.com) - powerful, extensible, and feature-packed frontend toolkit.
+
+[Doteveryone](https://github.com/Doteveryone) - Python package gender bias decoder. MIT licence
