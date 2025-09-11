@@ -12,4 +12,4 @@ Gender Bias Decoder is a single page web app that scans inputted text for any un
 
 [Bootstrap](https://getbootstrap.com) - powerful, extensible, and feature-packed frontend toolkit.
 
-[Doteveryone](https://github.com/Doteveryone) - Python package gender bias decoder. MIT licence
+[Doteveryone](https://github.com/Doteveryone) - Python package gender bias decoder. MIT licence.
