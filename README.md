@@ -14,6 +14,8 @@ Gender Bias Decoder is a single page web app that scans inputted text for any un
 
 [Doteveryone](https://github.com/Doteveryone) - Python package gender bias decoder. MIT licence.
 
+## Build Process
+
 <shift><command>p then select Python:Create Environment and select venv
 'source /Users/gavb/VSCode/genderbiasdecoder/.venv/bin/activate' activate virtual environment (should see (.venv) at start of terminal command prompt)
 python3
