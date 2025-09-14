@@ -22,3 +22,5 @@ python3
 pip install --upgrade pip
 pip install flask
 pip install python.env
+
+create .env and env.py and add environment variables to them.
